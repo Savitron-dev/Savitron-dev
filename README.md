@@ -15,7 +15,7 @@ I'm a B.Tech Computer Science and Engineering student at KIIT, living at the int
 - 🗡️ **Class:** Software Engineer & Game Developer
 - 📍 **Spawn Point:** Bhubaneswar, India
 - 🎯 **Current Quest:** Majoring in CSE at KIIT & developing out-of-the-box indie games
-- 🎒 **Inventory:** Code, Coffee, Camera, and a lot of crazy ideas
+- 🎒 **Inventory:** Code and a lot of crazy ideas
 - 🤝 **Multiplayer:** Always open to collab on game jams, software projects, or talking about photography
 
 ---
@@ -25,14 +25,13 @@ I'm a B.Tech Computer Science and Engineering student at KIIT, living at the int
 <div align="center">
 
 **Game Engines & Graphics**<br>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 
 **Languages**<br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 **Tools & Environment**<br>
