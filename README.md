@@ -2,7 +2,7 @@
   
   # 👾 WELCOME TO MY SAVE FILE 👾
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pragyan+Aarav+👋;I'm+a+Game+Developer+🎮;I'm+a+B.Tech+CSE+Student+at+KIIT+🎓;I'm+a+Photographer+📸;Turning+Crazy+Ideas+into+Reality+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pragyan+Aarav+👋;I'm+a+Game+Developer+🎮;+🎓;;Turning+Crazy+Ideas+into+Reality+🚀" alt="Typing Animation" />
 
 </div>
 
