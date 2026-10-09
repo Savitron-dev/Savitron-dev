@@ -2,7 +2,7 @@
   
   # 👾 WELCOME TO MY SAVE FILE 👾
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pragyan+Aarav+👋;I'm+a+Game+Developer+🎮;I'm+a+B.Tech+CSE+Student+at+KIIT+🎓;I'm+a+Photographer+📸;Turning+Crazy+Ideas+into+Reality+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pragyan+Aarav+👋;I'm+a+Game+Developer+🎮;I'm+a+B.Tech+CSE+Student+at+KIIT+🎓;I'm+a+Photographer+📸;Turning+Crazy+Ideas+into+Reality+🚀" alt="Typing Animation" />
 
 </div>
 
@@ -43,35 +43,7 @@ I'm a B.Tech Computer Science and Engineering student at KIIT, living at the int
 
 </div>
 
----
-
-### 📊 Player Stats (Achievements)
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 🌐 Join My Lobby (Connect)
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" />
 </div>
