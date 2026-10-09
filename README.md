@@ -2,7 +2,7 @@
   
   # 👾 WELCOME TO MY SAVE FILE 👾
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pragyan+Aarav+👋;I'm+a+Game+Developer+🎮;I'm+a+B.Tech+CSE+Student+at+KIIT+🎓;I'm+a+Photographer+📸;Turning+Crazy+Ideas+into+Reality+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pragyan+Aarav+👋;I'm+a+Game+Developer+🎮;I'm+a+B.Tech+CSE+Student+at+KIIT+🎓;I'm+a+Photographer+📸;Turning+Crazy+Ideas+into+Reality+🚀" alt="Typing Animation" />
 
 </div>
 
@@ -49,9 +49,9 @@ I'm a B.Tech Computer Science and Engineering student at KIIT, living at the int
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&title_color=00BFFF&text_color=c9d1d9&icon_color=00BFFF&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&stroke=00BFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -73,5 +73,5 @@ I'm a B.Tech Computer Science and Engineering student at KIIT, living at the int
 
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
 </div>
